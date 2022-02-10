@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "name": "discord-modal",
+  "description": "The package helps you to create a modal, which is a new feature of Disocrd, but it is not supported at the moment in djs, so this package will make it easier for you to do it with discord.js v13",
+  "version": "1.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shuruhatik",
+  "license": "MIT"
+}
