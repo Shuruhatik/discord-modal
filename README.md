@@ -24,7 +24,7 @@ You can start install the package on your project:
 ```sh-session
 npm install discord-modal
 yarn add discord-modal
-pnpm adddiscord-modal
+pnpm add discord-modal
 ```
 -   CommonJS
 ```js
@@ -53,7 +53,7 @@ DiscordModal(client)
 client.on(`interactionCreate`,(interaction)=>{
  if(interaction.isCommand()){
   if(interaction.commandName == "ping"){
-     const textinput = new ModalBuilder()
+     const modal_data = new ModalBuilder()
      .setCustomId("submit_a_support_rank")
      .setTitle("Submit a support rank")
      .addComponents(
@@ -76,7 +76,7 @@ client.on(`interactionCreate`,(interaction)=>{
        .setCustomId("story")
        .setPlaceholder("write here")
        )
-       client.modal.open(interaction, textinput) 
+       client.modal.open(interaction, modal_data) 
    }
  }
 })
