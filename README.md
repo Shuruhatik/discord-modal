@@ -13,7 +13,7 @@
 
 ## 💡 What is Discord Modal?
 - The package helps you to create a modal, which is a new feature of Disocrd, but it is not supported at the moment in dscord.js, so this package will make it easier for you to do it with [discord.js v13](https://discord.js.org/#/docs/discord.js/v13/general/welcome)
-- Note: You can use it with any optimist that depends on [interactions](https://discord.com/developers/docs/interactions/message-components), such as slash commands, buttons, select menus and others
+- Note: You can use it with any optimist that depends on [interactions](https://discord.com/developers/docs/interactions/message-components), such as slash commands, buttons, select menus and others<br>
 ![e](https://imgur.com/QKW5dkk.gif)
 
 ## 📖 If you want to know all the details of the package
