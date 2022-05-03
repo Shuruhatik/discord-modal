@@ -4,13 +4,45 @@
   },
   "name": "discord-modal",
   "description": "The package helps you to create a modal, which is a new feature of Disocrd, but it is not supported at the moment in djs, so this package will make it easier for you to do it with discord.js v13",
-  "version": "1.0.1",
-  "main": "index.js",
+  "version": "1.0.3",
+  "main": "src/index.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "modal form",
+    "discord-forms",
+    "discord components",
+    "discord.js components",
+    "discord.js modal",
+    "discord-modals",
+    "discord",
+    "discord.js-modals",
+    "textinputs",
+    "discord-modal",
+    "discord.js",
+    "discord",
+    "discord api",
+    "discordjs-modal",
+    "shuruhatik",
+    "modalsubmit",
+    "djs v13",
+    "modal submit",
+    "modals",
+    "interaction modals",
+    "modal interactions",
+    "forms",
+    "discord.js-forms"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shuruhatik/discord-modal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shuruhatik/discord-modal/issues"
+  },
+  "homepage": "https://github.com/Shuruhatik/discord-modal#readme",
   "author": "shuruhatik",
   "license": "MIT"
 }
