@@ -98,7 +98,7 @@ client.login("your bot token")
 ```
 
 ### 🖼️ Pictures in the form of the code above this ↓
-![ex1](https://i.imgur.com/3y7ZMh3.png)
+![ex1](https://i.imgur.com/3y7ZMh3.png)<br>
 ![enter image description here](https://i.imgur.com/kire029.png)
 
 ## 📩 Send Modal
@@ -116,7 +116,7 @@ client.modal.send(interaction, modal_data)
 - [Documentation](https://bit.ly/3Fcbl9e)
 - [ST Studio](https://dsc.gg/shuruhatik) is the best place to get support.
 - [The NPM package webpage](https://npmjs.com/package/discord-modal) is, well, the webpage for the NPM package.
-<a  href="https://dsc.gg/shuruhatik"><img  src="https://discord.com/api/guilds/766364402763956254/widget.png?style=banner3"></a>
+<br><a  href="https://dsc.gg/shuruhatik"><img  src="https://discord.com/api/guilds/766364402763956254/widget.png?style=banner3"></a>
 
 ## 👋 If you have a problem or have a suggestion,
 - Contact With Me Discord: [`Shuruhatik#2443`](https://github.com/shuruhatik)
