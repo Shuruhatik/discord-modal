@@ -10,12 +10,12 @@
 </div>
 
 # 🗺️Scheme 
-- [General](#✨-general)
-- [Classes](#📦classes)
+- [General](#general)
+- [Classes](#classes)
    - [ModalBuilder](#modalbuilder)
    - [ModalField](#modalfield)
    - [ModalSubmitFieldsResolver](#modalsubmitfieldsresolver)
-- [Events](#📑events)
+- [Events](#events)
    - [ModalSubmitInteraction](#modalsubmitinteraction)
  - [Example](#example)
 
