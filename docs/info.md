@@ -17,6 +17,7 @@
    - [ModalSubmitFieldsResolver](#modalsubmitfieldsresolver)
 - [Events](#📑events)
    - [ModalSubmitInteraction](#modalsubmitinteraction)
+ - [Example](#example)
 
 # ✨ General
 
@@ -27,7 +28,7 @@ DiscordModal(client)//This is an important step so that you can open Modal Submi
 ```
 | Parameter |Type|Description|
 | ------------ | ------------ |------------ |
-|  `Client`  |[Client](https://discord.js.org/#/docs/discord.js/stable/class/Client)| Get the Client class |
+|  *Client*  |[Client](https://discord.js.org/#/docs/discord.js/stable/class/Client)| Get the Client class |
 #### To open Modal submit
 
 Shows a modal component
